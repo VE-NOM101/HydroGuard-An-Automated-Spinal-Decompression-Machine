@@ -37,24 +37,10 @@ Video Overview Link :: [Checkout For All Details !!](https://www.youtube.com/wat
 ![alt text](https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Images/Print%20Page%208.jpg)
 
 
-# Submitted Project Report
-## Page 1
-![alt text](https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Report/Page1.jpg)
-## Page 2
-![alt text](https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Report/Page2.jpg)
-## Page 3
-![alt text](https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Report/Page3.jpg)
-## Page 4
-![alt text](https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Report/Page4.jpg)
-## Page 5
-![alt text](https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Report/Page5.jpg)
-## Page 6
-![alt text](https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Report/Page6.jpg)
-## Page 7
-![alt text](https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Report/Page7.jpg)
-## Page 8
-![alt text](https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Report/Page8.jpg)
-## Page 9
-![alt text](https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Report/Page9.jpg)
-## Page 10
-![alt text](https://github.com/plabandas/HydroGuard_LumbarTraction/blob/master/Report/Page10.jpg)  
+# Circuit Overview
+-Choyan
+<img src="./choyan1.png" alt="img" />
+<img src="./choyan2.png" alt="img" />
+-Plaban
+<img src="./plaban1.png" alt="img" />
+<img src="./plaban2.png" alt="img" />
