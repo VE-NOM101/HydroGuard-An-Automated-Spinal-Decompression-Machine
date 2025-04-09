@@ -43,4 +43,4 @@ Video Overview Link :: [Checkout For All Details !!](https://www.youtube.com/wat
 <img src="./choyan1.png" alt="img" />
 -Plaban
 <img src="./plaban.png" alt="img" />
-<img src="./plaban1.png" alt="img" />
+<img src="./plaban1.jpg" alt="img" />
