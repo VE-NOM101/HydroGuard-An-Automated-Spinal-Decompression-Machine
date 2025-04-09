@@ -39,8 +39,8 @@ Video Overview Link :: [Checkout For All Details !!](https://www.youtube.com/wat
 
 # Circuit Overview
 -Choyan
+<img src="./choyan.png" alt="img" />
 <img src="./choyan1.png" alt="img" />
-<img src="./choyan2.png" alt="img" />
 -Plaban
+<img src="./plaban.png" alt="img" />
 <img src="./plaban1.png" alt="img" />
-<img src="./plaban2.png" alt="img" />
